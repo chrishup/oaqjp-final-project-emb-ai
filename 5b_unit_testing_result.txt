@@ -1,11 +1,5 @@
 .
 ----------------------------------------------------------------------
-Ran 1 test in 0.622s
-
-OK
-theia@theiadocker-chrishup:/home/project/oaqjp-final-project-emb-ai$ python3.11 EmotionDetection/test_emotion_detection.py
-.
-----------------------------------------------------------------------
 Ran 1 test in 0.613s
 
 OK
