@@ -25,4 +25,5 @@ def emotion_detector(text_to_analyse):
         "sadness": response_json["emotionPredictions"][0]["emotion"]["sadness"],
         "dominant_emotion": dominant_emotion["key"]
     }
+    
     return formatted_response
