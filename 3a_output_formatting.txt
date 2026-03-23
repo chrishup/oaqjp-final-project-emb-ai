@@ -24,5 +24,5 @@ def emotion_detector(text_to_analyse):
     }
     return formatted_response
 
-# emotions = emotion_detector("I am so happy I am doing this.")
-# print(emotions)
+emotions = emotion_detector("I am so happy I am doing this.")
+print(emotions)
